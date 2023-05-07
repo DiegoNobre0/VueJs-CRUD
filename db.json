@@ -1,0 +1,25 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Pikachu",
+      "type": "Eletricidade",
+      "description": "TESTE",
+      "imageUrl": "https://sm.ign.com/t/ign_br/screenshot/default/29-1_97wq.960.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Psyduck",
+      "type": "Psíquico",
+      "description": "TESTE",
+      "imageUrl": "https://www.pngmart.com/files/22/Psyduck-Pokemon-PNG-Isolated-HD.png"
+    },
+    {
+      "name": "Charizard",
+      "type": "Fogo",
+      "description": "TESTE",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/pt/9/95/Charizard.png",
+      "id": 4
+    }
+  ]
+}
